@@ -197,6 +197,20 @@ Panoptic dataset<br>
                    |_infrared
                   |_visible
 ```
+<h2><a></a>Infrared</h2>
+
+---
+<div align="center">
+  <img src="samples/panoptic_infrared-0920_multi5.jpg" alt="Panoptic infrared sample" width="1000">
+</div>
+
+--- 
+
+<h2><a></a>Visible</h2>
+---
+<div align="center">
+  <img src="samples/panoptic_infrared-0920_multi5.jpg" alt="Panoptic infrared sample" width="1000">
+</div>
 
 ---
 
