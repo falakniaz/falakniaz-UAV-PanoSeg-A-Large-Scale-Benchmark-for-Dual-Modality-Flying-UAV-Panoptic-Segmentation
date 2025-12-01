@@ -3,6 +3,11 @@
 <p>We introduce a new UAV's based dataset designed to advance research in panoptic segmentation by integrating object recognition into the broader context of scene understanding. </p>
 
 ---
+<div align="center">
+  <img src="samples/image_1.png" alt="Panoptic infrared sample" width="1000">
+</div>
+
+
 
 # Table of Contents
 
