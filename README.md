@@ -199,7 +199,7 @@ Panoptic dataset<br>
 
 ---
 
-The dataset is available in a Synology repository at https://wicomai.synology.me:5001/sharing/CJXm9i5jl
+The dataset is available in a Synology repository at https://wicomai.synology.me:5001/sharing/MjGdaHH09
 
 ---
   <h2><a class = "anchor" id="Author & Contact"></a>Author & Contact </h2>
