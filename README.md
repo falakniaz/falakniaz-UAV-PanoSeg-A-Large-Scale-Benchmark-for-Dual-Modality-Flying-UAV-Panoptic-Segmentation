@@ -205,5 +205,7 @@ The dataset is available in a Synology repository at https://wicomai.synology.me
   <h2><a class = "anchor" id="Author & Contact"></a>Author & Contact </h2>
   Falak Niaz <br>
   Department of Electronic Engineering, Kookmin University Seoul South Korea <br>
-  Email: <a>falakbhai300@gmail.com</a>
+  https://wireless.kookmin.ac.kr/
+  Email: falakbhai300@gmail.com
+  Phone: +821059559661
    
