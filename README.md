@@ -50,7 +50,7 @@ python3 semanticcomposer_falak.py \
 ---
 
 <div align="center">
-  <img src="samples/infrared-0026_multi5.jpg" alt="Panoptic infrared sample" width="800">
+  <img src="samples/infrared-0026_multi5.jpg" alt="Panoptic infrared sample" width="1000">
 </div>
 
 
@@ -71,7 +71,11 @@ python3 instance_builder_falak.py \
   --min_area 20
 ```
 ---
-![Panoptic infrared sample](samples/infrared-0015_multi5_viz.jpg)
+
+<div align="center">
+  <img src="samples/infrared-0015_multi5_viz.jpg" alt="Panoptic infrared sample" width="1000">
+</div>
+
 ---
 <h2><a class = "anchor" id="Panoptic Dataset"></a>3. Panoptic Dataset </h2>
 
@@ -91,7 +95,11 @@ python3 instance_builder_falak.py \
 
   ```
 ---
-![Panoptic infrared sample](samples/panoptic_infrared-0920_multi5.jpg)
+
+<div align="center">
+  <img src="samples/panoptic_infrared-0920_multi5.jpg" alt="Panoptic infrared sample" width="1000">
+</div>
+
 
 ---
 
