@@ -183,7 +183,10 @@ Panoptic dataset<br>
 
 ---
 
+---
+The dataset is available in a Synology repository at https://wicomai.synology.me:5001/sharing/CJXm9i5jl
 
+---
   <h2><a class = "anchor" id="Author & Contact"></a>Author & Contact </h2>
   Falak Niaz <br>
   Department of Electronic Engineering, Kookmin University Seoul South Korea <br>
